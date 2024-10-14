@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\bin\Debug\net8.0\HW.Delegate.exe
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\bin\Debug\net8.0\HW.Delegate.deps.json
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\bin\Debug\net8.0\HW.Delegate.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\bin\Debug\net8.0\HW.Delegate.dll
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\bin\Debug\net8.0\HW.Delegate.pdb
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.dll
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\refint\HW.Delegate.dll
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.pdb
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\HW.Delegate.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Delegate\HW.Delegate\obj\Debug\net8.0\ref\HW.Delegate.dll
